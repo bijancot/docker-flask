@@ -17,7 +17,7 @@ COPY . .
 
 ## Requirements.txt
 
-```Flask==0.12```
+```Flask>=0.12```
 
-#### Panjibaskoro - panjibaskoro.web.id
+#### Panjibaskoro - https//panjibaskoro.web.id
 

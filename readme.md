@@ -4,14 +4,14 @@ A simple docker images contain Python+Flask for Web or Micro-Services Developmen
 
 ## Dockerfile
 
-        FROM python:3                                                                                                                                                                                   
+```FROM python:3                                                                                                                                                                                   
                                                                                                                                                                                                 
-	WORKDIR /usr/src/app
+WORKDIR /usr/src/app
 
-	COPY requirements.txt ./
-	RUN pip install --no-cache-dir -r requirements.txt
+COPY requirements.txt ./
+RUN pip install --no-cache-dir -r requirements.txt
 
-	COPY . .
+COPY . .```
 
 #### Panjibaskoro - panjibaskoro.web.id
 

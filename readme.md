@@ -1,6 +1,6 @@
 # Docker-Flask 
   
-dsdA simple docker images contain Python+Flask for Web or Micro-Services Development.
+A simple docker images contain Python+Flask for Web or Micro-Services Development. This image only used for development purpose only, because some comand only used in development stage. 
 
 ## Dockerfile
 

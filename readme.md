@@ -6,7 +6,7 @@ A simple docker images contain Python+Flask for Web or Micro-Services Developmen
 
 take a look at latest Dockerfile :
 
-.. 1. [*wongko/docker-flask:latest images*](../blob/master/Dockerfile)
+...1. [*wongko/docker-flask:latest images*](../blob/master/Dockerfile)
 
 ## Requirements.txt
 

@@ -4,17 +4,9 @@ A simple docker images contain Python+Flask for Web or Micro-Services Developmen
 
 ## Dockerfile
 
-```FROM python:3
+take a look at latest Dockerfile :
 
-WORKDIR /usr/src/app
-
-RUN pip install --upgrade pip
-COPY requirements.txt ./
-RUN pip install --no-cache-dir -r requirements.txt
-
-COPY . .
-
-```
+.. 1. [*wongko/docker-flask:latest images*](../blob/master/Dockerfile)
 
 ## Requirements.txt
 

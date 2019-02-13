@@ -8,7 +8,7 @@ take a look at latest Dockerfile :
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*wongko/docker-flask:latest*](../master/Dockerfile)
 
-## Requirements.txt
+## Library inside this image
 
 ```
 Flask>=0.12

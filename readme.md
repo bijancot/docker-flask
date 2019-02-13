@@ -28,6 +28,7 @@ example for running a simple ```docker-flask``` container :
 # docker run -it -p 2009:5000 -v $PWD:/usr/src/app -e FLASK_APP=test/test.py wongko/docker-flask flask run --host='0.0.0.0
 ```
 
-make sure when you set volume after option ```-v``` you using the specific directory for example : ```/mnt/b2c7efbf-ef52-437d-8ca7-e46ea581cbba/Kuliah/docker-flask``` because some how i always found error if not give it the "long directory folder". That's all. thx
+make sure when you set volume after option ```-v``` you using the specific directory for example : ```/mnt/b2c7efbf-ef52-437d-8ca7-e46ea581cbba/Kuliah/docker-flask``` because some how i always found error if not give it the "long directory folder". Remember to change the ```FLASK_APP``` environtment variable to the directory of your python file. thx 
+
 #### Panjibaskoro - https//panjibaskoro.web.id
 

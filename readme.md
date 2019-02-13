@@ -10,7 +10,10 @@ take a look at latest Dockerfile :
 
 ## Requirements.txt
 
-```Flask>=0.12```
+```Flask>=0.12
+Flask-WTF>=0.13.1
+WTForms>=2.0.1
+```
 
 #### Panjibaskoro - https//panjibaskoro.web.id
 

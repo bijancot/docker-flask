@@ -7,19 +7,19 @@ A simple docker images contain Python+Flask for Web or Micro-Services Developmen
 take a look at latest Dockerfile :
 
 _[wongko/docker-flask:latest](/Dockerfile)_<br/>
-_[wongko/docker-flask:python3](/Dockerfile)_ <br/>
+_[wongko/docker-flask:python3](/python3/Dockerfile)_ <br/>
 _[wongko/docker-flask:python2](/python2/Dockerfile)_
 
 ## Tags 
 
 ### wongko/docker-flask:latest
-Is an flask images that used ```python3``` and with full library that listed in this readme
+Is an flask images that used ```python:latest``` and with full library that listed in this readme
 
 ### wongko/docker-flask:python3
-Is the same tags as latest no difference.
+In this image i'am using ```python:3.7``` 
 
 ### wongko/docker-flask:python2
-This tag using ```python2```
+This tag using ```python:2```
 
 ## Library inside this image
 

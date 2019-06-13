@@ -27,6 +27,7 @@ This tag using ```python2```
 Flask>=0.12
 Flask-WTF>=0.13.1
 WTForms>=2.0.1
+SQLAlchemy>=1.2.0
 ```
 
 soon more library will be added in requirements.txt 
